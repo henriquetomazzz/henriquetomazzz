@@ -8,6 +8,6 @@
 
 📫 How to reach me
 
-    e-mail: henriquetomaz021@gmail.com
+ E-mail: henriquetomaz021@gmail.com
   
-    Linkedin: https://www.linkedin.com/in/dev-henrique-tomaz/
+ Linkedin: https://www.linkedin.com/in/dev-henrique-tomaz/
