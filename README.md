@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Henrique Tomaz 👋</h1>
+<h1 align="center">Olá, eu sou o Carlos Henrique Tomaz da Silva 👋</h1>
 
 <p align="center">
   DevOps & Infraestrutura · Estudante de Análise e Desenvolvimento de Sistemas no IFPB
